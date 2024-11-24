@@ -1,7 +1,7 @@
 from robot.api.deco import keyword
 from pymongo import MongoClient
 
-client = MongoClient('mongodb+srv://marcos:mavds10nfs@cluster0.bmp88.mongodb.net/markX2?retryWrites=true&w=majority&appName=Cluster0')
+client = MongoClient('*****************')
 
 db = client['markX2']
 
