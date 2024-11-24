@@ -1,0 +1,10 @@
+apps > api
+npm run dev
+
+- Atentar-se ao IP
+para ajustar o código da automação
+
+- npx appium
+(colocar o servidor no ar)
+Use o gerenciador de pacote ou
+o Appium Server Desk (não há necessidade do comando).
