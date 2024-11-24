@@ -1,7 +1,7 @@
 {
   "name": "markx-robot",
   "version": "1.0.0",
-  "description": "Projeto node apenas para deixar o servidor appim local",
+  "description": "Projeto node apenas para deixar o servidor appium local",
   "main": "index.js",
   "directories": {
     "test": "tests"
